@@ -1,0 +1,72 @@
+body {
+    background-image: url('https://i.ibb.co/3RhqfY0/election-commission.webp');
+    background-size: cover;
+    background-position: center;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    background: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+.point {
+    font-size: 20px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+#point-1 {
+    color: #007bff; /* blue */
+}
+
+#point-2 {
+    color: #ff69b4; /* pink */
+}
+
+#point-3 {
+    color: #ffd700; /* gold */
+}
+
+#point-4 {
+    color: #33cc33; /* green */
+}
+
+#point-5 {
+    color: #666666; /* dark gray */
+}
+
+#point-6 {
+    color: #ff8c00; /* dark orange */
+}
+
+#point-7 {
+    color: #9932cc; /* purple */
+}
+
+#point-8 {
+    color: #dc143c; /* crimson */
+}
+
+#point-9 {
+    color: #00ced1; /* dark turquoise */
+}
+
+#point-10 {
+    color: #800080; /* purple */
+}
+
+.designer {
+    font-style: italic;
+    font-size: 14px;
+    color: #999999; /* light gray */
+    text-align: center;
+    margin-top: 20px;
+}
