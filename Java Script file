@@ -1,8 +1,12 @@
-// This is a placeholder script for future JavaScript functionality
-// You can add specific JavaScript functionalities as needed
-// This script is currently empty
-
-// Example: Adding functionality to log a message when the page loads
 document.addEventListener('DOMContentLoaded', function() {
-    console.log('Page loaded');
+    console.log('Page loaded'); // Log a message when the page loads
+
+    // Example: Adding click event listeners to each list item
+    var points = document.querySelectorAll('.animated.point'); // Get all list items with class 'animated' and 'point'
+    
+    points.forEach(function(point, index) {
+        point.addEventListener('click', function() {
+            alert('You clicked on point ' + (index + 1)); // Display an alert showing which point was clicked
+        });
+    });
 });
