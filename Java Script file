@@ -1,0 +1,8 @@
+// This is a placeholder script for future JavaScript functionality
+// You can add specific JavaScript functionalities as needed
+// This script is currently empty
+
+// Example: Adding functionality to log a message when the page loads
+document.addEventListener('DOMContentLoaded', function() {
+    console.log('Page loaded');
+});
