@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>General Election to Parliamentary Constituencies: Trends & Results June-2024</title>
+	<link rel="stylesheet" href="style.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+	<style>
+		body {
+			background-image: url('https://i.ibb.co/3RhqfY0/election-commission.webp');
+			background-size: cover;
+			background-position: center;
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+		}
+		.point {
+			font-size: 20px;
+			margin-bottom: 20px;
+			font-weight: bold;
+		}
+		#point-1 {
+			color: #007bff; /* blue */
+		}
+		#point-2 {
+			color: #ff69b4; /* pink */
+		}
+		#point-3 {
+			color: #ffd700; /* gold */
+		}
+		#point-4 {
+			color: #33cc33; /* green */
+		}
+		#point-5 {
+			color: #666666; /* dark gray */
+		}
+		#point-6 {
+			color: #ff8c00; /* dark orange */
+		}
+		#point-7 {
+			color: #9932cc; /* purple */
+		}
+		#point-8 {
+			color: #dc143c; /* crimson */
+		}
+		#point-9 {
+			color: #00ced1; /* dark turquoise */
+		}
+		#point-10 {
+			color: #800080; /* purple */
+		}
+		.designer {
+			font-style: italic;
+			font-size: 14px;
+			color: #999999; /* light gray */
+			text-align: center;
+			margin-top: 20px;
+		}
+		.container {
+			width: 80%;
+			margin: auto;
+			background: rgba(255, 255, 255, 0.8);
+			padding: 20px;
+			border-radius: 10px;
+			box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+			margin-top: 20px;
+		}
+	</style>
+</head>
+<body>
+	<div class="container">
+		<ul id="results-list">
+			<li id="point-1" class="animated point">
+				<i class="fas fa-chart-line"></i>
+				<b>1. The data shows a consistent increase in voter turnout in Lok Sabha elections over the years, with a significant jump from 58.21% in 2009 to 67.40% in 2019. In 2024, the voter turnout has increased to 71.15%. This indicates a growing participation of citizens in the democratic process.</b>
+			</li>
+			<li id="point-2" class="animated point">
+				<i class="fas fa-vote-yea"></i>
+				<b>2. In the 2024 Indian general election, the Indian National Congress party won 99 seats in the Lok Sabha. The Congress's seat tally increased significantly compared to the 2019 election, where they won 52 seats.</b>
+			</li>
+			<li id="point-3" class="animated point">
+				<i class="fas fa-trophy"></i>
+				<b>3. NDA secures absolute majority with BJP emerging single largest party with 240 seats. The BJP- led NDA has secured absolute majority in the 2024 Lok Sabha elections by winning 292 seats. Results of all 543 Lok Sabha seats have been declared. The BJP alone has won 240 seats.</b>
+			</li>
+			<li id="point-4" class="animated point">
+				<i class="fas fa-chart-pie"></i>
+				<b>4. The BJP has consistently increased its seat share in Lok Sabha elections, from 116 seats in 2009 to 303 seats in 2019. In 2024, the BJP has won 240 seats, representing the party's popularity and influence over the past decade.</b>
+			</li>
+			<li id="point-5" class="animated point">
+				<i class="fas fa-percent"></i>
+				<b>5. The BJP has increased its vote share in Lok Sabha elections, from 18.8% in 2009 to 37.4% in 2019. In 2024, the BJP secured 36.56% of the total votes, indicating the party's sustained influence and the appeal of its ideology and policies among the electorate.</b>
+			</li>
+			<li id="point-6" class="animated point">
+				<i class="fas fa-chart-bar"></i>
+				<b>6. NDA secures absolute majority with BJP emerging single largest party with 240 seats. The BJP- led NDA has secured absolute majority in the 2024 Lok Sabha elections by winning 292 seats. Results of all 543 Lok Sabha seats have been declared. The BJP alone has won 240 seats.</b>
+			</li>
+			<li id="point-7" class="animated point">
+				<i class="fas fa-building"></i>
+				<b>7. In the 2024 Andhra Pradesh Legislative Assembly elections, the Telugu Desam Party (TDP) won 102 seats, while the YSR Congress Party (YSRCP) won 147 seats.</b>
+			</li>
+			<li id="point-8" class="animated point">
+				<i class="fas fa-chart-bar"></i>
+				<b>8. In the 2024 Odisha Legislative Assembly elections, the Bharatiya Janata Party (BJP) emerged as the single largest party, winning or leading in 78 out of the 147 seats. The Biju Janata Dal (BJD) secured 51 seats, followed by the Indian National Congress (INC) with 14 seats, Independent candidates with 3 seats, and the Communist Party of India (Marxist) with 1 seat.</b>
+			</li>
+			<li id="point-9" class="animated point">
+				<i class="fas fa-user-check"></i>
+				<b>9. In the June 2024 bye-elections to 25 Assembly constituencies across 12 states, the BJP won 11 seats, and the INC won 7 seats. The SP won 2 seats, the JMM won 1 seat in Jharkhand, and the AITC won 2 seats in West Bengal.</b>
+			</li>
+			<li id="point-10" class="animated point">
+				<i class="fas fa-award"></i>
+				<b>10. However, the BJP won 240 seats, down from the 303 seats it had secured in 2019, and lost its singular majority in the Lok Sabha, whereas the overall NDA secured 293 of the house's 543 seats.</b>
+			</li>
+		</ul>
+		<div class="designer">Designed by BURUGU AJITH</div>
+	</div>
+
+	<script src="script.js"></script>
+</body>
+</html>
